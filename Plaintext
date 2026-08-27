@@ -1,0 +1,12 @@
+Markdown
+# Open Source Developer Toolkit
+
+A lightweight library focused on modular UI components and performance utilities to reduce boilerplate code in web development.
+
+## Features
+- Optimized UI components
+- High accessibility standards
+- Zero-dependency architecture
+
+## Installation & Setup
+```bash
